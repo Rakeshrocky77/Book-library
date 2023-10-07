@@ -66,5 +66,30 @@ form {
  }
 
  .book-pages {
-    margin: ;
+    margin: 0;
+    font-size: 18px;
+ }
+
+ .book-status {
+   margin: 10px 0 0 0;
+   font-size: 16px;
+   color: #333;
+ }
+
+ button {
+   padding: 10px 20px;
+   border: 2px solid #333;
+   border-radius: 5px;
+   font-size: 16px;
+   font-weight: bold;
+   background-color: #fff;
+ }
+
+ button:hover {
+   background-color: #333;
+   color: #fff;
+ }
+
+ .read-status {
+   background-color: blue;
  }
