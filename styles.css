@@ -1,4 +1,4 @@
-/*#new-book-form {
+#new-book-form {
    display: block;
    margin: 0 auto;
    padding: 20px;
@@ -9,7 +9,7 @@
    border-radius: 10px;
    cursor: pointer;
 
-}*/
+}
 button {
    background-color: yellow;
    font-size: 40px;
